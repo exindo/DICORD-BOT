@@ -1,9 +1,9 @@
 module.exports = {
     "registercommands" : false,
-     "token": "OTE1MTQ1MTQwNDg4Nzc3NzMw.YaXVVA.4NniI38Ufeiaup1-I8GdvZQfHio",
+     "token": "OTc2NzI0NzAzNzEwNDI1MTE4.GTYFNc.AbmOioljJCkmFxF9G6pGzyXL8w8txeDGVdRq8o",
     "imageapi": "bb03f373caa534fcfcbaeae177a65134f44a6e57ba7a7b098be273867b376d8a677ddae3c23c6ded4fec8288573945e8c3483689deb13f229376ad4b5b60231d",
     "ownerID": ["776443229893034064","853968218321846334"],
-"prefix": "+",
+"prefix": ".",
 "chat": {
         "url": "http://api.brainshop.ai/get?bid=155777&key=O0Rla6COZJ8XSGPJ&uid=[uid]&msg=[msg]",
         "bid": "155777",
@@ -15,7 +15,7 @@ module.exports = {
 "api": "AIzaSyAAg3GHxipuyDz7KsCAv434yoFT56TR9LQ",
 "youtubeAPI": "AIzaSyAAg3GHxipuyDz7KsCAv434yoFT56TR9LQ",
 mainprefix: "+",
-"owner": "ZTRdiamond",
+"owner": "NESZ",
 "mongourl": "mongodb+srv://099:099@cluster0.kjeqb.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
 "secret": "TKDHwzyl2iieCPgq9mp4O5gttwqEOm1c",
  "dashboardURL": "if you have",
